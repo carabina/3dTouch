@@ -1,7 +1,7 @@
 # 3dTouch
 ===========
 
-Example of using View controller preview for 3d touch
+Example of using View controller preview for 3d touch in Objective-C
 
 
 
